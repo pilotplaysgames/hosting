@@ -1,0 +1,6 @@
+@font-face {
+    font-family: "CountachWeb-Italic";
+    src: url('CountachWeb-Italic.ttf?raw=true') format('woff'), 
+             url('CountachWeb-Italic.ttf?raw=true')  format('truetype');
+    font-weight: normal;
+}
